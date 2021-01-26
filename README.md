@@ -1,6 +1,6 @@
 ### Welcome to Dana's GitHub Page!
 ![Avatar](Images/Avatar.jpg)
-##Dana's Bio
+## Dana's Bio
 <p>My professional career began on nineteenth century square rigged shooners.</p>
   <figure>
     <p align="left">
@@ -53,8 +53,8 @@
   <figure>
     <p align="left">
       <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Jeep.JPG">
-    </p>
-    <figcaption><em>Oops...</em></figcaption>
+      <figcaption><em>Oops...</em></figcaption>
+      </p>
   </figure>
 </body>
 
