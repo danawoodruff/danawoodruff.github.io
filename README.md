@@ -2,8 +2,8 @@
 <figure>
   <p align="left">
     <img width="300" height="300"
-      src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Avatar.jpg"
-      hspace="20"><img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Antarctica.JPG">
+      src="Images/Avatar.jpg" hspace="20"><img
+      width="300" src="Images/Antarctica.JPG">
   </p>
 </figure>
 <h2>Dana's Bio</h2><br>
@@ -14,7 +14,7 @@
     <img width="300" height="300"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bateaugoelette.jpg/300px-Bateaugoelette.jpg"
       hspace="20"><img width="300" height="300"
-      src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Schooner.JPG">
+      src="Images/Schooner.JPG">
   <figcaption><em>Tallship "Californian" and me, repairing the Mainsail</em></figcaption>
   </p>
 </figure>
@@ -28,7 +28,7 @@
   There I worked with projects as diverse as North Sea platform construction and STS ops in Uruguay.</p>
 <figure>
   <p align="left">
-    <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Eng.JPG">
+    <img width="300" src="Images/Eng.JPG">
   <figcaption><em>Engine Room</em></figcaption>
   </p>
 </figure>
@@ -37,7 +37,7 @@
 <p>Finance peaked my interest and my company sent me to Harvard University for my graduate degree.</p>
 <figure>
   <p align="left">
-    <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Harvard.JPG">
+    <img width="300" src="Images/Harvard.JPG">
   <figcaption><em>Graduation!</em></figcaption>
   </p>
 </figure>
@@ -49,10 +49,7 @@
 <figure>
   <br>
   <p align="left">
-    <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy.jpg"
-      hspace="20"><img width="300"
-      src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter.JPG" hspace="20"><img
-      width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Jeep.JPG">
+    <img width="300" src="Images/Lucy.jpg" hspace="20"><img width="300" src="Images/Walter.JPG" hspace="20"><img width="300" src="Images/Jeep.JPG">
   </p>
   <figcaption><em>Lucy...0-60 in 3.9s and Walter...0-60 in 3.7s</em></figcaption>
 </figure>
