@@ -5,7 +5,7 @@
 <p>The Californian, Tole Mour, Adventuress, and the Pride of Baltimore II are examples of my schooner life.</p>
   <figure>
     <p align="left">
-      <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bateaugoelette.jpg/300px-Bateaugoelette.jpg"><img width="300" height="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Schooner.JPG">
+      <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bateaugoelette.jpg/300px-Bateaugoelette.jpg" hspace="20"><img width="300" height="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Schooner.JPG">
      <figcaption><em>Tallship "Californian" and me, repairing the Mainsail</em></figcaption>
      </p>
   </figure>
@@ -36,7 +36,7 @@
   <figure>
   <br>
     <p align="left">
-      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy.jpg"><p align="center"><img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter.JPG">
+      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy.jpg" hspace="20"><img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter.JPG">
     </p>
     <figcaption><em>Lucy...0-60 in 3.9s and Walter...0-60 in 3.7s</em></figcaption>
     </figure>
