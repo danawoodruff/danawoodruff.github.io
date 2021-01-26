@@ -14,6 +14,7 @@
     </p>
     <figcaption><em>Repairing the Mainsail</em></figcaption>
   </figure>
+  <br>
   <p>The Californian, Tole Mour, Adventuress, and the Pride of Baltimore II are examples of my schooner life.</p>
   <p>My undergraduate degrees are from the United States Merchant Marine Academy in Kings Pt, NY. As one of our <br>
     five federal service academies I recieved a congressional appointment to attend.  The military structure encouraged<br>
@@ -34,22 +35,26 @@
     </p>
     <figcaption><em>Engine Room</em></figcaption>
   </figure>
+  <br>
   <p>Finance naturally led me to Data Analytics and I decided to attend a six month bootcamp at Rice University.</p>
   <p>My love, though, is with cars. I've had many over the years beginning with Jeeps and now with a Tesla "Lucy"<br>
     and a Bentley coupe "Walter"</p>
 
   <figure>
+  <br>
     <p align="left">
       <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy.jpg">
     </p>
     <figcaption><em>Lucy...0-60 in 3.9s</em></figcaption>
   </figure>
+  <br>
   <figure>
     <p align="left">
       <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter.JPG">
     </p>
     <figcaption><em>Walter...0-60 in 3.7s</em></figcaption>
   </figure>
+  <br>
   <figure>
     <p align="left">
       <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Jeep.JPG">
