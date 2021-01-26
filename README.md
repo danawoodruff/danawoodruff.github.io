@@ -49,7 +49,10 @@
   </p>
   <figcaption><em>Lucy...0-60 in 3.9s and Walter...0-60 in 3.7s</em></figcaption>
 </figure>
-
+<figure>
+  <img width="300" src="Images/Jeep.JPG"><figcaption><em>Oops...</em></figcaption>
+  </p>
+  </figure>
 </body>
 
 </html>
