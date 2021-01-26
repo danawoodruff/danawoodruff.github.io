@@ -4,18 +4,11 @@
 <p>My professional career began on nineteenth century square rigged shooners.</p>
   <figure>
     <p align="left">
-      <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bateaugoelette.jpg/300px-Bateaugoelette.jpg"> <img width="300" height="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Schooner.JPG">
-     <figcaption><em>Repairing the Mainsail</em></figcaption>
-       <figcaption><em>Tallship "Californian"</em></figcaption>
-      </p>
+      <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bateaugoelette.jpg/300px-Bateaugoelette.jpg"> <p align="lright"><img width="300" height="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Schooner.JPG">
+     <figcaption><em>Tallship "Californian"</em></figcaption>     <figcaption><em>Repairing the Mainsail</em></figcaption>
+     </p>
   </figure>
   
-  <figure>
-    <p align="left">
-      <img width="300" height="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Schooner.JPG">
-     <figcaption><em>Repairing the Mainsail</em></figcaption>
-      </p>
-  </figure>
   <br>
   <p>The Californian, Tole Mour, Adventuress, and the Pride of Baltimore II are examples of my schooner life.</p>
   <p>My undergraduate degrees are from the United States Merchant Marine Academy in Kings Pt, NY. As one of our <br>
