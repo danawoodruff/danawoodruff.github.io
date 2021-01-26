@@ -2,15 +2,14 @@
 ![Avatar](Images/Avatar.jpg)
 ## Dana's Bio
 <p>My professional career began on nineteenth century square rigged shooners.</p>
+<p>The Californian, Tole Mour, Adventuress, and the Pride of Baltimore II are examples of my schooner life.</p>
   <figure>
     <p align="left">
       <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bateaugoelette.jpg/300px-Bateaugoelette.jpg"><img width="300" height="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Schooner.JPG">
      <figcaption><em>Tallship "Californian" and me, repairing the Mainsail</em></figcaption>
      </p>
   </figure>
-  
   <br>
-  <p>The Californian, Tole Mour, Adventuress, and the Pride of Baltimore II are examples of my schooner life.</p>
   <p>My undergraduate degrees are from the United States Merchant Marine Academy in Kings Pt, NY. As one of our <br>
     five federal service academies I recieved a congressional appointment to attend.  The military structure encouraged<br>
     a degree of organization and precision.  I was one of nine double majors in Marine Engineering and Marine Transportation.</p>
@@ -22,7 +21,8 @@
       </p>
       <figcaption><em>Engine Room</em></figcaption>
     </figure>
-    For the last four years i have worked as a freelance auditor for the military and oil and gas.
+    <br>
+    For the last four years I have worked as a freelance auditor for the military and oil and gas.
   <p>Finance peaked my interest and my company sent me to Harvard University for my graduate degree.</p>
   <figure>
     <p align="left">
