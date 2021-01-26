@@ -40,19 +40,19 @@
 
   <figure>
     <p align="left">
-      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy">
+      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy.jpg">
     </p>
     <figcaption><em>Lucy...0-60 in 3.9s</em></figcaption>
   </figure>
   <figure>
     <p align="left">
-      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter">
+      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter.JPG">
     </p>
     <figcaption><em>Walter...0-60 in 3.7s</em></figcaption>
   </figure>
   <figure>
     <p align="left">
-      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Jeep">
+      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Jeep.JPG">
     </p>
     <figcaption><em>Oops...</em></figcaption>
   </figure>
