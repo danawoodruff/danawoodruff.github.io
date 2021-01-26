@@ -45,9 +45,9 @@
 <figure>
   <br>
   <p align="left">
-    <img width="300" src="Images/Lucy.jpg" hspace="20"><img width="300" src="Images/Walter.JPG" hspace="20"><img width="300" src="Images/Jeep.JPG">
+    <img width="300" src="Images/Lucy.jpg" hspace="20"><img width="300" src="Images/Walter.JPG" hspace="20">
+    <figcaption><em>Lucy...0-60 in 3.9s and Walter...0-60 in 3.7s</em></figcaption>
   </p>
-  <figcaption><em>Lucy...0-60 in 3.9s and Walter...0-60 in 3.7s</em></figcaption>
 </figure>
 <figure>
   <img width="300" src="Images/Jeep.JPG"><figcaption><em>Oops...</em></figcaption>
