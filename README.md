@@ -4,10 +4,12 @@
 <p>My professional career began on nineteenth century square rigged shooners.</p>
   <figure>
     <p align="left">
-      <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bateaugoelette.jpg/300px-Bateaugoelette.jpg">
+      <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bateaugoelette.jpg/300px-Bateaugoelette.jpg"> <img width="300" height="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Schooner.JPG">
+     <figcaption><em>Repairing the Mainsail</em></figcaption>
        <figcaption><em>Tallship "Californian"</em></figcaption>
       </p>
   </figure>
+  
   <figure>
     <p align="left">
       <img width="300" height="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Schooner.JPG">
