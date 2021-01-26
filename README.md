@@ -36,7 +36,7 @@
   <figure>
   <br>
     <p align="left">
-      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy.jpg"><img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter.JPG">
+      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy.jpg"><p align="center"><img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter.JPG">
     </p>
     <figcaption><em>Lucy...0-60 in 3.9s and Walter...0-60 in 3.7s</em></figcaption>
     </figure>
