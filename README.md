@@ -1,9 +1,7 @@
 <h1>Welcome to Dana's GitHub Page!</h1><br>
 <figure>
   <p align="left">
-    <img width="300" height="300"
-      src="Images/Avatar.jpg" hspace="20"><img
-      width="300" src="Images/Antarctica.JPG">
+    <img width="300" height="300" src="Images/Avatar.jpg" hspace="20"><img width="300" src="Images/Antarctica.JPG">
   </p>
 </figure>
 <h2>Dana's Bio</h2><br>
@@ -13,8 +11,7 @@
   <p align="left">
     <img width="300" height="300"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bateaugoelette.jpg/300px-Bateaugoelette.jpg"
-      hspace="20"><img width="300" height="300"
-      src="Images/Schooner.JPG">
+      hspace="20"><img width="300" height="300" src="Images/Schooner.JPG">
   <figcaption><em>Tallship "Californian" and me, repairing the Mainsail</em></figcaption>
   </p>
 </figure>
@@ -37,8 +34,7 @@
 <p>Finance peaked my interest and my company sent me to Harvard University for my graduate degree.</p>
 <figure>
   <p align="left">
-    <img width="300" src="Images/Harvard.JPG">
-  <figcaption><em>Graduation!</em></figcaption>
+    <img width="300" src="Images/Harvard.JPG"><figcaption><em>Graduation!</em></figcaption>
   </p>
 </figure>
 <br>
