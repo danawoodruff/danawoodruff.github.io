@@ -18,8 +18,7 @@
     <figure>
       <p align="left">
         <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Eng.JPG">
-      </p>
-      <figcaption><em>Engine Room</em></figcaption>
+        <figcaption><em>Engine Room</em></figcaption> </p>
     </figure>
     <br>
     For the last four years I have worked as a freelance auditor for the military and oil and gas.
@@ -27,8 +26,7 @@
   <figure>
     <p align="left">
       <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Harvard.JPG">
-    </p>
-    <figcaption><em>Engine Room</em></figcaption>
+      <figcaption><em>Graduation!</em></figcaption></p>
   </figure>
   <br>
   <p>Finance naturally led me to Data Analytics and I decided to attend a six month bootcamp at Rice University.</p>
@@ -38,17 +36,10 @@
   <figure>
   <br>
     <p align="left">
-      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy.jpg">
+      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Lucy.jpg"><img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter.JPG">
     </p>
-    <figcaption><em>Lucy...0-60 in 3.9s</em></figcaption>
-  </figure>
-  <br>
-  <figure>
-    <p align="left">
-      <img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Walter.JPG">
-    </p>
-    <figcaption><em>Walter...0-60 in 3.7s</em></figcaption>
-  </figure>
+    <figcaption><em>Lucy...0-60 in 3.9s and Walter...0-60 in 3.7s</em></figcaption>
+    </figure>
   <br>
   <figure>
     <p align="left">
