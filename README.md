@@ -2,7 +2,7 @@
 <figure>
   <p align="left">
     <img width="300" height="300"
-      src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Avatar.JPG"
+      src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Avatar.jpg"
       hspace="20"><img width="300" src="https://github.com/danawoodruff/danawoodruff.github.io/blob/main/Images/Antarctica.JPG">
   </p>
 </figure>
