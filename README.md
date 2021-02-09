@@ -1,3 +1,4 @@
+<html>
 <h1>Welcome to Dana's GitHub Page!</h1><br>
 <figure>
   <p align="center">
@@ -18,4 +19,4 @@
 </body>
 
 </html>
-<img width="300" height="300" src="Images/Avatar.jpg" class="rounded-circle" hspace="20">
+
