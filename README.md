@@ -11,7 +11,7 @@
 <figure>
   <p align="center">
     <img width="300" height="500" src="Images/IMG_0640.JPG" hspace="20">
-    <figcaption><em>Easter Island Moia Quarry</em></figcaption>
+    <figcaption align="center"><em>Easter Island Moia Quarry</em></figcaption>
   </p>
 </figure>
 
