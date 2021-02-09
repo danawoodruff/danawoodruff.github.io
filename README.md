@@ -1,7 +1,7 @@
 <h1>Welcome to Dana's GitHub Page!</h1><br>
 <figure>
   <p align="center">
-    <img width="300" height="300" src="Images/Avatar.jpg" hspace="20">
+    <img src="Images/Avatar.jpg" class="rounded-circle" hspace="20">
   </p>
 </figure>
 <h2>Dana's Bio</h2><br>
@@ -18,3 +18,4 @@
 </body>
 
 </html>
+<img width="300" height="300" src="Images/Avatar.jpg" class="rounded-circle" hspace="20">
