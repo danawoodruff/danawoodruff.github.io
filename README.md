@@ -7,7 +7,7 @@
 </figure>
 <h2>Dana's Bio</h2><br>
 <p>Visit and enjoy my GitHub page where you can link to my projects, read a little about me, my cars, and my pets. There's even a resume!</p>
-<p>Link to GitPage: https://danawoodruff.github.io/</p>
+<a href="https://danawoodruff.github.io">View my GitHub Biography Page</a><br>
 <br>
 <figure>
   <p align="center">
